@@ -1,6 +1,8 @@
 
-<?php
 
+
+<?php
+//alterando a pagina.
 print_r($_GET);
 $pos = $_GET['pos'];
 //die();
