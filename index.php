@@ -21,6 +21,7 @@ $signos[] =	'Aquário';
 $signos[] =	'Peixes';
 
 
+
 //echo('<pre>');
 //print_r('signos');
 //echo('<pre>');
